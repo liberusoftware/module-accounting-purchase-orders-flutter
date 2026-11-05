@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-purchase-orders-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-purchase-orders",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_purchase_orders_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/purchase-orders.md",
+  "presentationPlan": "projects/accounting/flutter/purchase-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
